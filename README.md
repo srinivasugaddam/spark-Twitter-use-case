@@ -1,1 +1,1 @@
-# spark-Twitter-use-case
+Spark Twitter Stream Example
